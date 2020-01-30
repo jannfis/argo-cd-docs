@@ -1,2 +1,3 @@
 # argo-cd-docs
-Temporary repository for bringing ArgoCD docs to readthedocs.io
+
+A temporary repository for bringing ArgoCD docs to readthedocs.io. If you want to contribute, please get in touch with me on Argo Slack.
